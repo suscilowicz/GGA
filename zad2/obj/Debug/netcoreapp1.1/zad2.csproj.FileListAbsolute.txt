@@ -1,0 +1,8 @@
+/home/sebix/Pulpit/GGA/zad2/bin/Debug/netcoreapp1.1/zad2.deps.json
+/home/sebix/Pulpit/GGA/zad2/bin/Debug/netcoreapp1.1/zad2.runtimeconfig.json
+/home/sebix/Pulpit/GGA/zad2/bin/Debug/netcoreapp1.1/zad2.runtimeconfig.dev.json
+/home/sebix/Pulpit/GGA/zad2/bin/Debug/netcoreapp1.1/zad2.dll
+/home/sebix/Pulpit/GGA/zad2/bin/Debug/netcoreapp1.1/zad2.pdb
+/home/sebix/Pulpit/GGA/zad2/obj/Debug/netcoreapp1.1/zad2.AssemblyInfo.cs
+/home/sebix/Pulpit/GGA/zad2/obj/Debug/netcoreapp1.1/zad2.dll
+/home/sebix/Pulpit/GGA/zad2/obj/Debug/netcoreapp1.1/zad2.pdb
