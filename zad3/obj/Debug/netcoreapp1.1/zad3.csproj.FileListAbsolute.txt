@@ -1,0 +1,8 @@
+/home/sebix/Pulpit/GGA/zad3/bin/Debug/netcoreapp1.1/zad3.deps.json
+/home/sebix/Pulpit/GGA/zad3/bin/Debug/netcoreapp1.1/zad3.runtimeconfig.json
+/home/sebix/Pulpit/GGA/zad3/bin/Debug/netcoreapp1.1/zad3.runtimeconfig.dev.json
+/home/sebix/Pulpit/GGA/zad3/bin/Debug/netcoreapp1.1/zad3.dll
+/home/sebix/Pulpit/GGA/zad3/bin/Debug/netcoreapp1.1/zad3.pdb
+/home/sebix/Pulpit/GGA/zad3/obj/Debug/netcoreapp1.1/zad3.AssemblyInfo.cs
+/home/sebix/Pulpit/GGA/zad3/obj/Debug/netcoreapp1.1/zad3.dll
+/home/sebix/Pulpit/GGA/zad3/obj/Debug/netcoreapp1.1/zad3.pdb
